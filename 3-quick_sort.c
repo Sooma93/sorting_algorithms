@@ -40,7 +40,7 @@ size_t lomuto_p(int *arr, size_t size, ssize_t low, ssize_t high)
 }
 
 /**
- * quick_s - to use u=in the quick sort alograthem
+ * quicksort - to use u=in the quick sort alograthem
  * @arr: the array sorted
  * @size: the size of the array
  * @low: the lowest value in the array
